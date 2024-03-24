@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "category": "Geography",
+    "answer": "Paris",
+    "choices": ["Paris", "London", "Berlin", "Rome"]
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "category": "Literature",
+    "answer": "Harper Lee",
+    "choices": ["Harper Lee", "Mark Twain", "Charles Dickens", "Jane Austen"]
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "category": "Science",
+    "answer": "H2O",
+    "choices": ["H2O", "CO2", "NaCl", "O2"]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "category": "Science",
+    "answer": "Mars",
+    "choices": ["Mars", "Venus", "Jupiter", "Saturn"]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "category": "Art",
+    "answer": "Leonardo da Vinci",
+    "choices": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
+  }
+]
